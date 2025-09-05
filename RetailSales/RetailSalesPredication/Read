@@ -1,0 +1,25 @@
+Retail Sales Predication
+
+This Project predicts Total Sales using regression models trained on business data
+
+## Step by Step Procedure
+
+- Data Preprocessing
+- Model Training
+- Model Evaluation(MSE,R^2)
+- Prediction of Sales
+
+
+## Results
+- R^ Score 0.998 (high accuracy)
+- Business Insight : Marketing spend has high impact on sales
+
+## Files
+
+- businessales.csv - Dataset
+- Sales.py- Code
+
+
+
+
+
